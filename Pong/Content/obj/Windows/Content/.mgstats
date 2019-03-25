@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/Arial20.spritefont","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/Arial20.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37905,0.4537866
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/ball.png","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",932,985,0.0259314
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/brick.png","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/brick.xnb","TextureProcessor","Texture2DContent",378,3285,0.0099723
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/BrickSound.wav","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/BrickSound.xnb","SoundEffectProcessor","SoundEffectContent",18402,18463,0.2949767
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/MissSound.wav","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/MissSound.xnb","SoundEffectProcessor","SoundEffectContent",186612,186673,0.2443748
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/Paddle.png","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/Paddle.xnb","TextureProcessor","Texture2DContent",254,3445,0.017952
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/PaddleBounceSound.wav","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/PaddleBounceSound.xnb","SoundEffectProcessor","SoundEffectContent",14892,14953,0.2892266
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/pixel.png","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/pixel.xnb","TextureProcessor","Texture2DContent",156,89,0.0109692
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/StartSound.wav","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/StartSound.xnb","SoundEffectProcessor","SoundEffectContent",11670,11731,0.2613021
+"C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/WallBounceSound.wav","C:/Users/cjols/Desktop/C#_Projects/Pong/Pong/Content/bin/Windows/Content/WallBounceSound.xnb","SoundEffectProcessor","SoundEffectContent",45900,45961,0.2321037
